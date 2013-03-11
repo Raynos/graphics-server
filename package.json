@@ -1,6 +1,6 @@
 {
   "name": "graphics-server",
-  "version": "0.1.0",
+  "version": "0.1.0-11",
   "description": "Server for Raynos/graphics",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
@@ -19,7 +19,8 @@
   "dependencies": {
     "tryme": "git://github.com/Raynos/tryme",
     "reducible": "git://github.com/Raynos/reducible#1.x",
-    "graphics": "git://github.com/Raynos/graphics"
+    "graphics": "git://github.com/Raynos/graphics",
+    "xtend": "~2.0.3"
   },
   "devDependencies": {
     "tape": "~0.2.2",
