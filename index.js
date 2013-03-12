@@ -1,4 +1,4 @@
-var server = require("tryme/bin/server")
+var server = require("tryme")
 var path = require("path")
 
 server({
