@@ -1,6 +1,6 @@
-var server = require("tryme/bin/server")
+var server = require("tryme/server")
 var path = require("path")
 
 server({
-    _: [path.join(__dirname, "node_modules", "graphics", "examples")]
+    root: [path.join(__dirname, "node_modules", "graphics", "examples")]
 })
