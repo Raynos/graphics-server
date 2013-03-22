@@ -1,6 +1,6 @@
 {
   "name": "graphics-server",
-  "version": "0.1.0-16",
+  "version": "0.1.0-21",
   "description": "Server for Raynos/graphics",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
@@ -26,7 +26,8 @@
     "tape": "~0.2.2",
     "browserify-server": "~2.1.18",
     "browservefy": "~0.0.7",
-    "testem": "~0.2.56"
+    "testem": "~0.2.56",
+    "jitsu": "~0.12.6-1"
   },
   "licenses": [
     {
